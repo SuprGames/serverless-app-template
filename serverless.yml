@@ -1,5 +1,5 @@
-org: suprgames
-app: serverless-app-template
+org: ${env:ORGANIZATION}
+app: ${env:APP_NAME}
 service: app-services
 
 plugins:
