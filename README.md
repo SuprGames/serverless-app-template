@@ -1,3 +1,10 @@
+WE have now a better template:
+https://github.com/SuprGames/serverless-ts-base-template/tree/master
+
+
+
+This will be archived.
+
 # serverless-app-template
 Serverless Application Template - TS - Serverless - Offline
 
