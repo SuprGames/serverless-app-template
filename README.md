@@ -1,7 +1,11 @@
-WE have now a better template:
+# Important update note:
+
+We have now a better template:
 https://github.com/SuprGames/serverless-ts-base-template/tree/master
 
+--
 
+Legacy Template:
 
 This will be archived.
 
