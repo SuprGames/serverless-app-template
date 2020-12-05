@@ -1,9 +1,10 @@
 # Important update note:
 
-We have now a better template:
-https://github.com/SuprGames/serverless-ts-base-template/tree/master
+We have now a better and simpler template:
 
---
+https://github.com/SuprGames/serverless-ts-base-template
+
+------------------------------------------------------------------------------------------------------------
 
 Legacy Template:
 
